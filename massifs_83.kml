@@ -129,7 +129,7 @@
         <Placemark id="67">
             <Style id="74">
                 <PolyStyle id="75">
-                    <color>7f0088ff</color>
+                    <color>7f00ffff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
                     <outline>1</outline>
@@ -169,7 +169,7 @@
         <Placemark id="87">
             <Style id="94">
                 <PolyStyle id="95">
-                    <color>7f0000ff</color>
+                    <color>7f0088ff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
                     <outline>1</outline>
@@ -189,7 +189,7 @@
         <Placemark id="97">
             <Style id="104">
                 <PolyStyle id="105">
-                    <color>7f0000ff</color>
+                    <color>7f0088ff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
                     <outline>1</outline>
@@ -209,7 +209,7 @@
         <Placemark id="107">
             <Style id="114">
                 <PolyStyle id="115">
-                    <color>7f0088ff</color>
+                    <color>7f00ffff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
                     <outline>1</outline>
