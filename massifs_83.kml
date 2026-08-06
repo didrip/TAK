@@ -109,7 +109,7 @@
         <Placemark id="57">
             <Style id="64">
                 <PolyStyle id="65">
-                    <color>7f0000ff</color>
+                    <color>7f0088ff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
                     <outline>1</outline>
@@ -149,7 +149,7 @@
         <Placemark id="77">
             <Style id="84">
                 <PolyStyle id="85">
-                    <color>7f00008b</color>
+                    <color>7f0000ff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
                     <outline>1</outline>
